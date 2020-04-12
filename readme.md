@@ -285,29 +285,29 @@
 
 ## Backend Development
 
-- [Flask](https://github.com/humiaozuzu/awesome-flask#readme) - Python framework.
+- [Flask](https://github.com/humiaozuzu/awesome-flask#readme) - Framework Python.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automatyzacja środowiska maszyny wirtualnej.
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Framework Python.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
-- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - Framework PHP.
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - Framework PHP.
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
-- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - Framework PHP.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-- [Rails](https://github.com/ekremkaraca/awesome-rails#readme) - Web app framework for Ruby.
-	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+- [Rails](https://github.com/ekremkaraca/awesome-rails#readme) - Web app framework dla Ruby.
+	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Pakiety.
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - Framework PHP.
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
-- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
+- [nginx](https://github.com/fcambus/nginx-resources#readme) - Serwer WWW.
+- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Framework Java.
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Otwartoźródłowa platforma do zarządzania, automatyzacji i skalowania aplikacji kontenerowych
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - Mikroframework PHP.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing i architektura serverless.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
-- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
-- [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
+- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Zestaw narzędzi do tworzenia reaktywnych aplikacji na JVM.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Narzędzie do budowy, zmiany i wersjonowania infrastruktury.
+- [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Programowanie po stronie serwera w Swift.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 
 ## Informatyka
@@ -317,53 +317,53 @@
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Nauka, implementacja i stosowanie uczenia maszynowego przy użyciu Ruby.
+	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Modele dla platformy uczenia maszynowego Apple.
+	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Platforma uczenia maszynowego napisana w Javie z interfejsami API w językach R, Python i Scala.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
-	- [Question Answering](https://github.com/seriousmac/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
+	- [Question Answering](https://github.com/seriousmac/awesome-qa#readme) - Nauka zadawania pytań i udzielania odpowiedzi w języku naturalnym za pomocą maszyny.
 	- [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
-	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
+	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Teoria podstaw korzystania z kryptografii przez osoby niebędące kryptografami.
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Sieci neuronowe.
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Biblioteka dla sztucznej inteligencji.
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - Najczęściej cytowane artykuły do deep learning.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Naucz się rozwijać własną wyszukiwarkę.
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Obliczenia wykorzystujące mechanikę kwantową i kubity na komputerach kwantowych.
 
 ## Big Data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework do rozproszonego przechowywania i przetwarzania bardzo dużych zestawów danych.
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
-- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
-- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
-- [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Zunifikowany silnik do przetwarzania danych na dużą skalę.
+- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Platforma Business Intelligence do wizualizacji danych, analiz i aplikacji raportujących.
+- [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platforma do wyszukiwania, monitorowania i analizy ustrukturyzowanych i nieustrukturyzowanych dużych danych generowanych maszynowo w czasie rzeczywistym.
 
 ## Teoria
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
-	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Nauka i ćwiczenia.
 - [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Przemierzanie zagnieżdżonych struktur danych.
 
 ## Książki
 
@@ -380,58 +380,58 @@
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
-- [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+- [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source'owy i edytowalny edytor tekstu.
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Wieloplatformowy open-source'owy edytor tekstu.
 
 ## Gry komputerowe
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
-- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Network programming for multiplayer online games.
+- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Programowanie sieciowe dla gier online dla wielu graczy.
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
+- [Godot](https://github.com/Calinou/awesome-godot#readme) - silnik gry.
 - [Open Source Games](https://github.com/leereilly/games#readme)
-- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
+- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - silnik gry.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
-- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
+- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - silnik gry.
 - [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
-- [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
-- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+- [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - silnik gry.
+- [Gideros](https://github.com/stetso/awesome-gideros#readme) - silnik gry.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
-- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
-- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materiały i zestawy danych dotyczące sztucznej inteligencji w grach.
+- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Język programowania wysokiego poziomu, używany do tworzenia natywnego kodu międzyplatformowego.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
-- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
-- [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - silnik gry.
+- [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - Aktywnie utrzymywane remake'i gier typu open source.
 
 ## Środowisko programistyczne
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - dla macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
-- [Fish](https://github.com/jorgebucaran/awesome-fish#readme) - User-friendly shell.
+- [Fish](https://github.com/jorgebucaran/awesome-fish#readme) - Przyjazna dla użytkownika powłoka.
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
-- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Usługa hostingowa repozytoriów Git.
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
-- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Skrypty do automatyzacji zadań podczas `git` workflows.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
-- [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
-- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Productivity app for macOS.
+- [Hyper](https://github.com/bnb/awesome-hyper#readme) - Wieloplatformowa aplikacja terminalowa oparta na technologiach internetowych.
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Wieloplatformowa obiektowa powłoka.
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Aplikacja zwiększająca wydajność dla systemu macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
-- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Twórz zadania, aby zautomatyzować przepływ pracy i udostępniać je innym na GitHub.
 
 ## Rozrywka
 
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
+- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - SciFi.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
@@ -444,45 +444,45 @@
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
 - [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
-- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
+- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - baza danych NoSQL.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
-- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
-- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
-- [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
-- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
-- [Contexture](https://github.com/ltchris/awesome-contexture#readme) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
-- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - framework obliczeń grafowych.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Obiektowo-relacyjna baza danych.
+- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Zorientowana na dokumenty baza danych NoSQL.
+- [HBase](https://github.com/rayokota/awesome-hbase#readme) - Rozproszony, skalowalny magazyn big data.
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Pomoc w korzystaniu z nierelacyjnych, rozproszonych, open-source'owych i poziomo skalowalnych baz danych.
+- [Contexture](https://github.com/ltchris/awesome-contexture#readme) - Zapytania/filtry i wyniki/agregacje z różnych kopii zapasowych danych, takich jak ElasticSearch i MongoDB.
+- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Wszystko, co ułatwia pracę z bazami danych.
 
 ## Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
 - [Fonts](https://github.com/brabadu/awesome-fonts#readme)
-- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
+- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Czcionki edytora tekstu.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
-- [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
+- [GIF](https://github.com/davisonio/awesome-gif#readme) - Format obrazu znany z obrazów animowanych.
 - [Music](https://github.com/ciconia/awesome-music#readme)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#readme)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
-- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Wieloplatformowe rozwiązanie do nagrywania, konwersji i przesyłania strumieniowego audio i wideo.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 
 ## Nauka
 
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
+- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interaktywne samouczki.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-- [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
+- [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Ucz się podczas zabawy.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
-- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
-- [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
-- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Głównie o CSS - języku i modułach.
+- [Product Management](https://github.com/dend/awesome-product-management#readme) - Dowiedz się, jak być lepszym PM'em.
+- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Daje ci jasną drogę do poszerzenia wiedzy i umiejętności.
 
 ## Bezpieczeństwo komputerowe
 
@@ -492,53 +492,53 @@
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Pułapka oszustwa, zaprojektowana w celu nakłonienia atakującego do próby naruszenia systemów informatycznych w organizacji.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
-- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Bezpieczeństwo aplikacji i usług internetowych.
+- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - Sztuka odblokowywania zamka poprzez manipulowanie jego elementami bez klucza.
+- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Grupy osób, które identyfikują wady bezpieczeństwa w systemach informatycznych.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Zautomatyzowana technika testowania oprogramowania, która polega na podawaniu pseudolosowo wygenerowanych danych wejściowych.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
-- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Rozporządzenie w sprawie ochrony danych i prywatności wszystkich osób w UE.Rozporządzenie w sprawie ochrony danych i prywatności wszystkich osób w UE.
 
 ## Systemy zarządzania treścią
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
+- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS skoncentrowany na elastyczności i UX.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
-- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Rozszerzalny CMS oparty na PHP.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
 
 ## Hardware
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
-- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - Dla inżynierów elektroników i hobbystów.
 - [Bluetooth Beacons](https://github.com/squaremetrics/awesome-beacon#readme)
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Lista kontrolna dotycząca budowy własnej gitary elektrycznej.
 
 ## Biznes
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
-- [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
-- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
-- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Najlepsze praktyki w ustalaniu celów i komunikacji.
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Wiodący ludzie i pełnienie roli menedżera w firmie/środowisku technologicznym.
+- [Indie](https://github.com/mezod/awesome-indie#readme) - Niezależne firmy deweloperskie.
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Narzędzia używane przez firmy w Hacker News.
+- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Walka ze zmianami klimatu za pomocą technologii.
+- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Zapewnia wysoką świadomość sytuacyjną w celu poprawy planowania strategicznego i podejmowania decyzji.
 
 ## Praca
 
-- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
+- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Współpraca zespołu.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
-- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+- [Code Review](https://github.com/joho/awesome-code-review#readme) - Przegląd kodu.
 
 ## Sieci komputerowe
 
@@ -548,31 +548,31 @@
 
 ## Systemy zdecentralizowane
 
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
+- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Usługi i narzędzia Bitcoin dla programistów.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Niefinansowe aplikacje blockchain.
+- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Zdecentralizowana sieć mikroblogowania typu open source.
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
-- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Projekty Blockchain dotyczące sztucznej inteligencji i uczenia maszynowego.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
-- [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
+- [Corda](https://github.com/chainstack/awesome-corda#readme) - Platforma blockchain typu open source zaprojektowana dla biznesu.
 
 ## Edukacja wyższa
 
-- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
-- [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - Multidyscyplinarna nauka wykorzystująca metody obliczeniowe do badania układu nerwowego.
+- [Digital History](https://github.com/maehr/awesome-digital-history#readme) - komputerowe badanie naukowe historii.
 
 ## Wydarzenia
 
-- [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
-- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+- [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Wydarzenia na całym świecie dla kreatywnego kodowania, technologii, projektowania, muzyki, sztuki i fajnych rzeczy.
+- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Wydarzenia związane z technologią we Włoszech.
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Wydarzenia związane z technologią w Holandii.
 
 ## Testowanie
 
-- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Testowanie oprogramowania.
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Zapewnia, że zmiany nie zepsuły funkcjonalności ani stylu.
+- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Narzędzie służące do skutecznego i szybkiego przeprowadzania testów automatycznych
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
 - [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
