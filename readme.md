@@ -134,35 +134,35 @@
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Przewodnik stylu i linter.
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Brzmiące niemożliwie projekty, które istnieją.
+	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - Dla pakietów npm.
+	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Menedżer pakietów.
 	- [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-- [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
+	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Fragmenty kodu do zrozumienia w 30 sekund.
+- [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Skompilowany język programowania Apple jest bezpieczny, nowoczesny, przyjazny dla programistów i szybki.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
-	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
+- [Python](https://github.com/vinta/awesome-python#readme) - Język programowania ogólnego przeznaczenia zaprojektowany pod kątem czytelności.
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchroniczne I/O w Python 3.
+	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Badania naukowe w dziedzinie audio/muzyki.
+	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - Wersja Pythona dla mikrokontrolerów.
+	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Analiza danych i uczenie maszynowe.
+	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing dla Python.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
-	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optymalizacja ahead-of-time compiler dla Scala oparte na LLVM.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -172,63 +172,63 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - Język ogólnego przeznaczenia z nastawieniem na programowanie systemu i wbudowane oprogramowanie o ograniczonych zasobach.
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
-- [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+- [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Potężny dynamiczny język z wieloma algorytmami, który ułatwia iteracyjny i interaktywny rozwój.
 	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
 - [Dart](https://github.com/yissachar/awesome-dart#readme)
-- [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
+- [Java](https://github.com/akullpp/awesome-java#readme) - Popularny bezpieczny język obiektowy zaprojektowany z myślą o elastyczności "napisz raz, uruchom gdziekolwiek".
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
 - [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
-- [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
-	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
+- [PHP](https://github.com/ziadoz/awesome-php#readme) - Język skryptowy po stronie serwera.
+	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Menedżer pakietów.
 - [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [Assembler](https://github.com/lurumdare/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
 - [Crystal](https://github.com/veelenga/awesome-crystal#readme)
-- [Frege](https://github.com/sfischer13/awesome-frege#readme) - Haskell for the JVM.
-- [CMake](https://github.com/onqtam/awesome-cmake#readme) - Build, test, and package software.
-- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
-- [Eta](https://github.com/sfischer13/awesome-eta#readme) - Functional programming language for the JVM.
-- [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
-- [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
-- [Imba](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
-- [Vala](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
-- [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+- [Frege](https://github.com/sfischer13/awesome-frege#readme) - Haskell dla JVM.
+- [CMake](https://github.com/onqtam/awesome-cmake#readme) - Twórz, testuj i pakuj oprogramowanie.
+- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - Obiektowy język kierowany na Adobe AIR.
+- [Eta](https://github.com/sfischer13/awesome-eta#readme) - Funkcjonalny język programowania dla JVM.
+- [Idris](https://github.com/joaomilho/awesome-idris#readme) - Czysty funkcjonalny język programowania ogólnego przeznaczenia z typami zależnymi, na które wpływ mają Haskell i ML.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - Nowoczesny język programowania przeznaczony dla dużych, długoletnich aplikacji, w których niezawodność i wydajność są niezbędne.
+- [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Specyficzny dla domeny język programowania używany do wyrażania algorytmów kwantowych.
+- [Imba](https://github.com/koolamusic/awesome-imba#readme) - Język programowania zainspirowany Ruby i Pythonem i kompiluje się do wydajnego JavaScript.
+- [Vala](https://github.com/desiderantes/awesome-vala#readme) - Język programowania zaprojektowany w celu pełnego wykorzystania ekosystemów GLib i GNOME, przy jednoczesnym zachowaniu szybkości kodu C.
+- [Coq](https://github.com/coq-community/awesome-coq#readme) - Formalny język i środowisko programowania i specyfikacji, które ułatwia interaktywny rozwój proofów sprawdzanych maszynowo.
 
 ## Frontend Development
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
 - [Web Tools](https://github.com/lvwzhen/tools#readme)
-- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Język arkusza stylów, który określa sposób wyświetlania elementów HTML na ekranie.
 	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
 	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
-- [React](https://github.com/enaqx/awesome-react#readme) - App framework.
-	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
-	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - A new feature that lets you use state and other React features without writing a class.
+- [React](https://github.com/enaqx/awesome-react#readme) - Framework aplikacji.
+	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework do tworzenia aplikacji React opartych na danych.
+	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Nowa funkcja, która umożliwia korzystanie ze stanu i innych funkcji React bez pisania klasy.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
-- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
-- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
-- [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
-- [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
+- [Polymer](https://github.com/Granze/awesome-polymer#readme) - Biblioteka JavaScript do tworzenia komponentów sieciowych.
+- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - Framework aplikacji.
+- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - Framework aplikacji.
+- [HTML5](https://github.com/diegocard/awesome-html5#readme) - Język znaczników używany w witrynach i aplikacjach internetowych.
+- [SVG](https://github.com/willianjusten/awesome-svg#readme) - Format obrazu wektorowego oparty na XML.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
-- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - Biblioteka JavaScript.
+- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - Zestaw narzędzi JavaScript.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - Framework aplikacji.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
@@ -237,51 +237,51 @@
 - [Web Typography](https://github.com/deanhume/typography#readme)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
-- [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
+- [D3](https://github.com/wbkd/awesome-d3#readme) - Biblioteka do tworzenia dynamicznych, interaktywnych wizualizacji danych.
 - [Emails](https://github.com/jonathandion/awesome-emails#readme)
-- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
+- [jQuery](https://github.com/petk/awesome-jquery#readme) - Łatwa w użyciu biblioteka JavaScript do manipulacji DOM.
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Funkcjonalne i reaktywne środowisko JavaScript.
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
-- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
-- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - Framework aplikacji.
+- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - Framework aplikacji.
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
-- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
-- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
+- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - narzędzie CSS.
+- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Bogate środowisko edytora tekstu dla React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
-- [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
-- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
-- [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Module bundler.
-- [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
-- [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
-- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
-- [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
-- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
-- [Preact](https://github.com/ooade/awesome-preact#readme) - App framework.
+- [choo](https://github.com/choojs/awesome-choo#readme) - Framework aplikacji.
+- [Redux](https://github.com/brillout/awesome-redux#readme) - Kontener stanu dla aplikacji JavaScript.
+- [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Moduł pakujący.
+- [Browserify](https://github.com/browserify/awesome-browserify#readme) - Moduł pakujący.
+- [Sass](https://github.com/Famolus/awesome-sass#readme) - Preprocesor CSS.
+- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - język projektowania Enterprise-class UI.
+- [Less](https://github.com/LucasBassetti/awesome-less#readme) - Preprocesor CSS.
+- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API do renderowania grafiki 3D.
+- [Preact](https://github.com/ooade/awesome-preact#readme) - Framework aplikacji.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
-- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
-- [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
-- [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
-- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
-- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
-- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics#readme) - Metrics to help understand page speed and user experience.
-- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
-- [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
-- [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
-- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
-- [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework dla renderowanych przez serwer aplikacji React.
+- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) - Biblioteka Tiny JavaScript do tworzenia aplikacji internetowych.
+- [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - Biblioteka szablonów HTML dla JavaScript.
+- [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Nowoczesna architektura programistyczna oparta na JavaScript po stronie klienta, API wielokrotnego użytku i wbudowane znaczniki.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Stos technologii tworzenia stron internetowych z WordPress jako backend i Gatsby jako frontend.
+- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Tworzenie doskonałej mobilnej strony internetowej.
+- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Środowisko programistyczne dla komponentów interfejsu użytkownika.
+- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework używający C#/Razor i HTML który działa w przeglądarce z WebAssembly.
+- [Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics#readme) - Dane pomagające zrozumieć szybkość strony i doznania użytkownika (UX).
+- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework dla rapid UI development.
+- [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework do tworzenia aplikacji internetowych uruchomionych w WebAssembly.
+- [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) - Techniki zapewniające określone wskaźniki wydajności witryny.
+- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animacje w przeglądarce z JavaScript, CSS, SVG itp.
+- [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework zainspirowany przez Elm and React do tworzenia wielowątkowych aplikacji internetowych frontend z WebAssembly.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Komponenty Material Design React do szybszego i łatwiejszego tworzenia stron internetowych.
 
 ## Backend Development
 
