@@ -81,54 +81,54 @@
 
 ## Platformy
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Asynchroniczne środowisko uruchomieniowe JavaScript sterowane zdarzeniami oparte na silniku JavaScript V8 Chrome.
+	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Pisanie kodu wieloplatformowego na Node.js.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobilny system operacyjny do telefonów i tabletów Apple.
+- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobilny system operacyjny opracowany przez Google.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
+- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Wieloplatformowe natywne aplikacje komputerowe wykorzystujące JavaScript / HTML / CSS.
+- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API dla aplikacji hybrydowych.
+- [React Native](https://github.com/jondot/awesome-react-native#readme) - Framework JavaScript do pisania natywnego renderowania aplikacji mobilnych na iOS i Androida.
+- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - IDE, testowanie i dystrybucja aplikacji mobilnych.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Maszyna wirtualna, która pozwala pisać bardziej wydajne i lepsze śledzenie i monitorowanie w systemach Linux.
+	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Dystrybucje i projekty Linux oparte na Arch Linux.
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - System operacyjny dla komputerów Mac firmy Apple.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - System operacyjny dla Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
-- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
-- [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - Protokół P2P hipermediów.
+- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Narzędzia do tworzenia aplikacji mobilnych.
+- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Platforma chmurowa jako usługa.
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Komputer wielkości karty kredytowej przeznaczony do nauki programowania dla dzieci, ale o też i o wiele więcej.
+- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Wieloplatformowy framework aplikacji GUI.
+- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - System rozszerzeń dla różnych przeglądarek.
+- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Pisz natywne aplikacje dla różnych platform iOS, Android, macOS, tvOS i watchOS w Ruby.
+- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Twórz aplikacje dla różnych platform telewizyjnych.
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Proste i wolne od zakłóceń środowisko pulpitu dla systemu Linux.
+- [KDE](https://github.com/francoism90/awesome-kde#readme) - Społeczność wolnego oprogramowania zajmująca się tworzeniem otwartych i przyjaznych dla użytkownika środowisk komputerowych.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
-	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
-- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
-- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
-- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
-- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
-- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
-- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
-- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Kompilatory typu open source i interfejsy API analizy kodu dla języków C# i VB.NET.
+- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Wirtualny asystent domowy.
+- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Platforma przetwarzania w chmurze przeznaczona dla programistów.
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Mobilny zestaw SDK Google do tworzenia natywnych aplikacji na iOS i Androida z jednej bazy kodu napisanej w Dart.
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Automatyka domowa typu open source, która stawia na pierwszym miejscu lokalną kontrolę i prywatność.
+- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Platforma chmurowa dla programistów i firm.
+- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - Platforma rozwoju aplikacji zbudowana na Google Cloud Platform.
+- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Zestaw bibliotek oprogramowania i narzędzi, które pomagają tworzyć robot apps.
+- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Wizualizacja i przechowywanie danych z dowolnego urządzenia.
+- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, obrona przed DDoS, i bezpieczeństwo dla twojej witryny.
+- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Platforma programistyczna dla Asystenta Google.
+- [ESP](https://github.com/agucova/awesome-esp#readme) - Niedrogie mikrokontrolery z Wi-Fi i obszernymi aplikacjami IoT.
 
 ## Języki programowania
 
