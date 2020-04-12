@@ -573,21 +573,21 @@
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - Testowanie oprogramowania.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Zapewnia, że zmiany nie zepsuły funkcjonalności ani stylu.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Narzędzie służące do skutecznego i szybkiego przeprowadzania testów automatycznych
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Środowisko automatyzacji testów typu open source do użytku z natywnymi, hybrydowymi i mobilnymi aplikacjami internetowymi.
 - [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Narzędzie wykorzystywane podczas testów funkcjonalnych i wydajnościowych.
 - [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## Różne
 
-- [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
+- [JSON](https://github.com/burningtree/awesome-json#readme) - format tekstowy do wymiany danych.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
-- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - format przechowywania danych w plikach tekstowych wykorzystujący przecinki do oddzielania wartości.
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin#readme)
 - [Radio](https://github.com/kyleterry/awesome-radio#readme)
-- [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
+- [Awesome](https://github.com/sindresorhus/awesome#readme) - Zilustrowana rekursja.
 - [Analytics](https://github.com/onurakpolat/awesome-analytics#readme)
 - [REST](https://github.com/marmelab/awesome-rest#readme)
 - [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd#readme)
@@ -605,7 +605,7 @@
 - [AMA](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
-- [OpenGL](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
+- [OpenGL](https://github.com/eug/awesome-opengl#readme) - Wieloplatformowy interfejs API do renderowania grafiki 2D i 3D.
 - [GraphQL](https://github.com/chentsulin/awesome-graphql#readme)
 - [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
@@ -617,89 +617,89 @@
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
-- [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
-- [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
+- [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - Dla naukowców ze środowisk lokalnych i nieinstytucjonalnych.
+- [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - protokół łączności "Internet of Things".
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
-- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - oprogramowanie do zautomatyzowanego składu tekstu, a także związany z nim język znaczników, służący do formatowania dokumentów tekstowych i tekstowo-graficznych.
+- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - Zestaw startowy ekonomisty.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
-- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-- [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
-- [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
+- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Techniki informatyczne stosowane do problemów w chemii.
+- [Colorful](https://github.com/Siddharth11/Colorful#readme) - Wybierz swój następny schemat kolorów.
+- [Steam](https://github.com/scholtzm/awesome-steam#readme) - Cyfrowa platforma dystrybucji.
 - [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - Dynamic tracing framework.
-- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) - Enhance your browsing experience.
-- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
+- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) - Zwiększ komfort przeglądania.
+- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon i Pokémon GO.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Zarządzanie operacjami technicznymi i biznesowymi za pośrednictwem czatu.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
-- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
-- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
-- [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) - Python-based config management system.
-- [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - For digital designers.
-- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
-- [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Web apps that work without login.
-- [Free Software](https://github.com/johnjago/awesome-free-software#readme) - Free as in freedom.
-- [Framer](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
-- [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - Markup language.
-- [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) - Funny developer projects.
-- [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
-- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Podejście programistyczne do złożonych potrzeb poprzez połączenie wdrożenia z ewoluującym modelem.
+- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Automatyczne śledzenie za pomocą technologii.
+- [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) - Oparty na języku Python system zarządzania konfiguracją.
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - Dla projektantów cyfrowych.
+- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programowanie czegoś ekspresyjnego zamiast funkcjonalnego.
+- [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Aplikacje internetowe, które działają bez logowania.
+- [Free Software](https://github.com/johnjago/awesome-free-software#readme) - Wolne jak w wolności.
+- [Framer](https://github.com/podo/awesome-framer#readme) - Prototypowanie interaktywnych projektów interfejsu użytkownika.
+- [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - Język znaczników.
+- [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) - Zabawne projekty deweloperskie.
+- [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - Oprogramowanie opieki zdrowotnej typu open source dla placówek, dostawców, programistów, ekspertów ds. polityki i badaczy.
+- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - eCommerce Open Source zbudowane przy pomocy PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
+- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Badanie układu nerwowego i mózgu.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - Ad-free alternatives.
-- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Języki programowania zaprojektowane do eksperymentowania lub jako żarty, a nie rzeczywiste użycie.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - Open-source monitoring system.
-- [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) - Smart home devices.
+- [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) - Urządzenia inteligentnego domu.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
-- [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
-- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - Companies that offer their tools and services for free to open source projects.
-- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
+- [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - Cyfrowa waluta, w której szyfrowanie służy do regulowania generowania jednostek i weryfikacji przelewów.
+- [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Tworzenie bardziej zintegrowanej i zróżnicowanej społeczności technologicznej.
+- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - Firmy, które oferują swoje narzędzia i usługi za darmo w projektach typu open source.
+- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Twórz lepsze i bardziej spójne projekty i doznania.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
-- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
-- [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-- [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
-- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
-- [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
-- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
-- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
-- [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
+- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Narzędzie do zarządzania wydajnością aplikacji Java typu open source.
+- [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - Doświadczenie bycia opiekunem typu open source.
+- [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Kalkulatory dla każdej platformy.
+- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - Rodzaj testu wyzwanie-odpowiedź stosowany w komputerach w celu ustalenia, czy użytkownik jest człowiekiem.
+- [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Twórz i udostępniaj dokumenty zawierające kod, równania, wizualizacje i tekst narracyjny.
+- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - Międzynarodowe mistrzostwa robotyki w liceum.
+- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Projekty open source, które pomagają ulepszyć społeczeństwo.
+- [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Prelegenci na konferencjach i spotkaniach w społeczności programistów i projektantów.
 - [Board Games](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
-- [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+- [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Finansowanie indywidualnych programistów lub rozwój projektów typu open source.
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
-- [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
-- [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
+- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Świadomość zdrowia psychicznego i samoopieka w branży oprogramowania.
+- [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Zacznij akceptować Bitcoin.
+- [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - Rozwiązywanie złożonych problemów naukowych za pomocą komputerów.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
-- [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - Open source technology for farming and gardening.
-- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
-- [Product Design](https://github.com/teoga/awesome-product-design#readme) - Design a product from the initial concept to production.
-- [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
-- [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
-- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
-- [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
-- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
+- [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - Technologia open source dla rolnictwa i ogrodnictwa.
+- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Sterowane komputerowo maszyny do rysowania i inne roboty graficzne.
+- [Product Design](https://github.com/teoga/awesome-product-design#readme) - Zaprojektuj produkt od wstępnej koncepcji do produkcji.
+- [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - Zmień bazę danych w API GraphQL.
+- [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - Dyscyplina projektowania i budowania oprogramowania.
+- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Lepiej zrozum, kto ma dostęp do infrastruktury telekomunikacyjnej i internetowej i na jakich warunkach.
+- [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - Stosy technologii do tworzenia różnych aplikacji i funkcji.
+- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - Profilowanie oparte na obrazach fenotypów biologicznych dla biologów obliczeniowych.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
-- [Advertising](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
-- [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
-- [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
-- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-- [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+- [Advertising](https://github.com/cenoura/awesome-ads#readme) - Reklama i media programistyczne dla stron internetowych.
+- [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Znajdź sposoby rozwiązania kryzysu klimatycznego.
+- [Naming](https://github.com/gruhn/awesome-naming#readme) - Właściwe nazywanie przedmiotów w informatyce
+- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - Jak wydobywać informacje z nieustrukturyzowanych danych biomedycznych i tekstu.
+- [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - Dążenie do zachowania sieci dla przyszłych pokoleń.
 
 ## Powiązane
 
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Wyszukaj zestaw danych Awesome.
+- [Awesome Search](https://awesomelists.top) - Szybkie wyszukiwanie list Awesome.
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Odkryj losowe strony z zestawu danych Awesome za pomocą rozszerzenia przeglądarki.
+- [Awesome CLI](https://github.com/umutphp/awesome-cli) - Proste narzędzie wiersza poleceń do zanurzania się w listy Awesome.
 
 ____________________________________________________
 Stworzone przez @[sindresorhus](https://github.com/sindresorhus/) polska wersja od @[mbiesiad](https://github.com/mbiesiad/)
