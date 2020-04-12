@@ -1,22 +1,22 @@
-# The awesome manifesto
+# Manifest awesome
 
-If you want your list to be included on `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
+Jeśli chcesz, aby twoja lista została uwzględniona w `awesome`, spróbuj umieścić na liście tylko awesome. W końcu to przechowywalnia, a nie kolekcja.
 
-But **what is awesome?**
+Ale **co jest awesome?**
 
-## Only awesome is awesome
+## Tylko awesome jest awesome
 
-Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
+Zbadaj, czy rzeczy, które włączasz, są w rzeczywistości awesome. Umieść na liście tylko te rzeczy, które ty lub inny współtwórca możecie osobiście polecić. Powinieneś raczej pomijać rzeczy, niż dodawać za dużo.
 
-## Awesome badge
+## Odznaka awesome
 
-This badge is for Awesome lists.
+Ta odznaka jest dla list Awesome.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Add an awesome badge to the top of your list, right next to the title. [Example](https://github.com/sindresorhus/awesome-nodejs). You can choose either the regular badge or the flat one.
+Dodaj odznakę awesome na górze listy, tuż obok tytułu. [Przykład](https://github.com/sindresorhus/awesome-nodejs). Możesz wybrać zwykłą lub płaską odznakę.
 
 ```md
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -24,60 +24,60 @@ Add an awesome badge to the top of your list, right next to the title. [Example]
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ```
 
-*The badges should not be modified in any way.*
+*Odznaki nie powinny być w żaden sposób modyfikowane.*
 
-## Awesome mentioned badge
+## Wspomniana odznaka Awesome
 
-This badge is for projects being mentioned in an Awesome list (**NOT for use in Awesome lists**). For example, the [Chalk](https://github.com/chalk/chalk) project could feature this badge because it's listed in [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs). It's totally optional for projects, but it's a nice way to show they've been featured in an Awesome list. You can choose either the regular badge or the flat one.
+Ta odznaka dotyczy projektów wymienionych na liście Awesome (**NIE do użycia w liście Awesome**). Na przykład, projekt [Chalk](https://github.com/chalk/chalk) może zawierać tę odznakę, ponieważ jest wymieniony w [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs). Jest to całkowicie opcjonalne w przypadku projektów, ale jest to dobry sposób, aby pokazać, że zostały wyróżnione na liście Awesome. Możesz wybrać zwykłą lub płaską plakietkę.
 
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge-flat.svg)](https://awesome.re)
 
-**Fill in the placeholders (Name and URL):**
+**Wypełnij symbole zastępcze (nazwa i adres URL):**
 
 ```md
 [![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge.svg)](https://github.com/<INSERT LIST URL>)
 [![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/<INSERT LIST URL>)
 ```
 
-Example:
+Przykład:
 
 ```md
 [![Mentioned in Awesome Node.js](https://awesome.re/mentioned-badge.svg)](https://github.com/sindresorhus/awesome-nodejs)
 ```
 
-If you're an Awesome list maintainer, you could encourage projects in your list to add the badge.
+Jeśli jesteś opiekunem listy Awesome, możesz zachęcić projekty z listy do dodania odznaki.
 
-*The badges should not be modified in any way.*
+*Odznaki nie powinny być w żaden sposób modyfikowane.*
 
-## Comment on why something is awesome
+## Skomentuj, dlaczego coś jest awesome
 
-Apart from suggesting a particular item on your list, you should also inform your readers *why* it's on the list and how they will benefit from it.
+Oprócz sugerowania określonego elementu na liście, powinieneś również poinformować czytelników *dlaczego* znajduje się na liście i jak z tego skorzystają.
 
-## Make it clear what the list is about
+## Wyjaśnij, o co chodzi na liście
 
-Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject well enough.
+Zwięźły opis na górze pliku Readme. Upewnij się, że twoja lista obejmuje określony zakres i nic więcej. Link do innych list awesome, jeśli uważasz, że już wystarczająco dobrze omawiają dany temat.
 
-## Pay attention to grammar
+## Zwróć uwagę na gramatykę
 
-Ensure your list is grammatically correct, typo-free and has no Markdown formatting errors. This should also apply to pull requests.
+Upewnij się, że twoja lista jest poprawna gramatycznie, nie zawiera literówek i nie zawiera błędów formatowania Markdown. Powinno to również dotyczyć pull requestów.
 
-## Choose an appropriate license
+## Wybierz odpowiednią licencję
 
-Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
+Pamiętaj, że jeśli [nie wybrałeś licencji](http://choosealicense.com/no-license/), oznacza to po prostu, że ludzie *nie* mogą reprodukować, rozpowszechniać ani tworzyć dzieł pochodnych.
 
-[Creative Commons licenses](https://creativecommons.org/) are perfect for this purpose. **We would recommend [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Code licenses like MIT, BSD, GPL, and so forth are not recommended.
+[Creative Commons licenses](https://creativecommons.org/) są idealne do tego celu. **Polecamy [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Licencje dla kodu, takie jak MIT, BSD, GPL itd., Nie są zalecane.
 
-## Include contribution guidelines
+## Dołącz wytyczne dotyczące współtworzenia
 
-People who are contributing to your list should have a clear understanding of how they should do so.
+Osoby, które współtworzą twoją listę, powinny dobrze rozumieć, jak to zrobić.
 
-If you don't feel like writing one from scratch, feel free to take our [contributing.md](contributing.md) and modify it to your own needs.
+Jeśli nie masz ochoty pisać od zera, skorzystaj z naszego [contributing.md](contributing.md) i zmodyfikuj go według własnych potrzeb.
 
-## Stylize your list properly
+## Stylizuj swoją listę poprawnie
 
-Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
+Stwórz [spis treści](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), uporządkuj zawartość w różne kategorie i w razie potrzeby użyj obrazów. Upewnij się, że wszystkie wpisy są spójne (np. wszystkie opisy wpisów kończą się na `.`).
 
-## Accept other people's opinion
+## Akceptuj opinie innych ludzi
 
-If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
+Jeśli jesteś właścicielem listy, uszanuj opinie innych osób. Jeśli wielu użytkowników nie zgadza się z twoją decyzją, zastanów się nad tym.
