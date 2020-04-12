@@ -81,3 +81,6 @@ Stwórz [spis treści](https://github.com/sindresorhus/stuff/blob/master/toc-gen
 ## Akceptuj opinie innych ludzi
 
 Jeśli jesteś właścicielem listy, uszanuj opinie innych osób. Jeśli wielu użytkowników nie zgadza się z twoją decyzją, zastanów się nad tym.
+
+________________________________________
+Stworzone przez @[sindresorhus](https://github.com/sindresorhus) polska wersja od @[mbiesiad](https://github.com/mbiesiad)
